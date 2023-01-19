@@ -658,18 +658,18 @@ img {
 }
 
 .bg-overlay::after {
-    background: -webkit-radial-gradient(50% 50%, circle closest-side, #af52ed 0%, #8830df 100%);
+    background: -webkit-radial-gradient(50% 50%, circle closest-side, #797979 0%, #f58875 100%);
 }
 
 .breadcrumb-area.bg-overlay::after {
-    background: linear-gradient(-45deg, #af52ed 0%, #8830df 100%);
+    background: linear-gradient(-45deg, #f85739 0%, #57585a 100%);
 }
 
 .btn,
 .btn:active,
 .btn.btn-bordered:before,
 .btn.btn-bordered-white:after {
-    background: linear-gradient(-45deg, #af52ed 0%, #8830df 100%);
+    background: linear-gradient(-45deg, #f85739 0%, #57585a 100%);
 }
 
 /*SOCIAL ICONS*/
@@ -715,8 +715,12 @@ img {
 }
 
 /*BACKGROUND IMAGES*/
-.welcome-area {
+/* .welcome-area {
     background: rgba(0, 0, 0, 0) url("../img/bg/welcome_bg.jpg") no-repeat fixed center center / cover;
+} */
+
+.welcome-area {
+    background: rgba(0, 0, 0, 0);
 }
 
 .homepage-2 .welcome-area {
@@ -731,8 +735,12 @@ img {
     background: rgba(0, 0, 0, 0) url("../img/bg/welcome_bg_4.jpg") no-repeat fixed center center / cover;
 }
 
-.cta-area {
+/* .cta-area {
     background: rgba(0, 0, 0, 0) url("../img/bg/cta_bg.jpg") no-repeat fixed center center / cover;
+} */
+
+.cta-area {
+    background: rgba(0, 0, 0, 0);
 }
 
 .breadcrumb-area {
@@ -1390,7 +1398,7 @@ header {
 .homepage-2 .btn.btn-bordered-white::after,
 .homepage-2 .bg-overlay::after,
 .homepage-2 .benifits-item::after {
-    background: linear-gradient(135deg, #be63f9 0%, #0449c4 100%);
+    background: linear-gradient(135deg, #57585a 0%, #f85739 100%);
 }
 
 /* ******************************
@@ -1400,7 +1408,7 @@ header {
 .homepage-3 .btn.btn-bordered-white::after,
 .homepage-3 .bg-overlay::after,
 .homepage-3 .grad-hover::before {
-    background: linear-gradient(135deg, #10054d 0%, #45108a 100%);
+    background: linear-gradient(135deg, #57585a 0%, #f85739 100%);
 }
 
 .homepage-3 .play-icon {
