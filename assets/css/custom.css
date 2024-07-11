@@ -1,0 +1,66 @@
+/* color change */
+header.header-5 .top-header {
+    background-color: #58585b;
+}
+header.header-5 .top-header .header-cta ul li a i {
+    color: #f8563b;
+}
+header.header-5 .top-header .header-right-cta {
+    color: #f8563b;
+}
+header.header-5 .top-header .header-right-cta .social-profile a:hover {
+    color: #f8563b;
+}
+header.header-5 .main-menu ul > li > ul li a:hover {
+    color: #f8563b;
+}
+header.header-5 #hamburger {
+    color: #f8563b;
+}
+.theme-btn{
+    background-color: #f8563b;
+    border: 1px solid #f8563b;
+}
+
+.service__wrapper .service-content .progress .progress-bar{
+    background-color: #f8563b;
+}
+
+.contact_form__wrapper .contact__element input[type=submit] {
+    background-color: #f8563b;
+}
+.project__items .project__image .box {
+    background: #f8563b;
+}
+
+.service__wrapper .service__image .video-play-btn > a {
+    background-color: #f8563b;
+}
+.agent__wrapper .owl-nav .owl-prev i, .agent__wrapper .owl-nav .owl-next i {
+    color: #f8563b;
+}
+.agent__wrapper .owl-nav .owl-prev, .agent__wrapper .owl-nav .owl-next {
+    border: 1px solid #f8563b;
+}
+.agent__wrapper .owl-nav .owl-prev::after, .agent__wrapper .owl-nav .owl-next::after {
+    background-color: #f8563b;
+}
+
+.cta-banner.style-3 .container-fluid {
+    background-color: #f8563b;
+}
+
+.footer-4 a:hover {
+    color: #f8563b !important;
+}
+
+#scrollUp {
+    background-color: #f8563b;
+}
+
+.prosess-wrapper .prosess-element span {
+    color: #f8563b;
+}
+header.header-5 .main-menu ul > li:hover a {
+    color: #f8563b;
+}
