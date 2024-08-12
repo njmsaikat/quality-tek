@@ -64,3 +64,7 @@ header.header-5 #hamburger {
 header.header-5 .main-menu ul > li:hover a {
     color: #f8563b;
 }
+
+header.header-5 .main-header-wraper {
+    top:0;
+}
